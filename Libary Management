@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net" modified="2022-09-05T04:01:13.238Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="HKizBSxmN7upYfSMPiuI" version="20.2.5" type="github">
+  <diagram id="hNyxmmUE_UUcQEs9_fJD" name="Trang-1">
+    <mxGraphModel dx="423" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-13" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;" edge="1" parent="1" source="4G-QYkhHdCdBeh1j6ANp-1" target="4G-QYkhHdCdBeh1j6ANp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-14" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;" edge="1" parent="1" source="4G-QYkhHdCdBeh1j6ANp-1" target="4G-QYkhHdCdBeh1j6ANp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-15" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;" edge="1" parent="1" source="4G-QYkhHdCdBeh1j6ANp-1" target="4G-QYkhHdCdBeh1j6ANp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-16" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;" edge="1" parent="1" source="4G-QYkhHdCdBeh1j6ANp-1" target="4G-QYkhHdCdBeh1j6ANp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-17" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;startArrow=none;" edge="1" parent="1" source="4G-QYkhHdCdBeh1j6ANp-5" target="4G-QYkhHdCdBeh1j6ANp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-18" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;" edge="1" parent="1" source="4G-QYkhHdCdBeh1j6ANp-1" target="4G-QYkhHdCdBeh1j6ANp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-1" value="Giám đốc" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-4" value="Thêm tài khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-7" value="Đăng xuất" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="80" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-22" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;edgeStyle=none;" edge="1" parent="1" source="4G-QYkhHdCdBeh1j6ANp-8" target="4G-QYkhHdCdBeh1j6ANp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-23" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4G-QYkhHdCdBeh1j6ANp-22">
+          <mxGeometry x="-0.0794" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-8" value="Sửa tài khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-9" value="Xoá tài khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="170" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-10" value="Cấp quyền tài khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-11" value="Sinh viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="460" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-5" value="&amp;nbsp;Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4G-QYkhHdCdBeh1j6ANp-19" value="" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;" edge="1" parent="1" source="4G-QYkhHdCdBeh1j6ANp-1" target="4G-QYkhHdCdBeh1j6ANp-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="151.08547056162695" as="sourcePoint" />
+            <mxPoint x="550.8461547940346" y="180.81623098739726" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
